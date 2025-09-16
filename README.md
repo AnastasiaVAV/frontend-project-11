@@ -30,13 +30,14 @@ Cсылка на проект – https://frontend-project-11-eosin-sigma.vercel
 - `yup` – валидация данных
 
 ## Установка и запуск
-1.  Установите зависимости:
+1.  Установка:
     ```bash
+    git clone git@github.com:AnastasiaVAV/RSS-aggregator.git
     npm install
     ```
 2.  Запустите приложение в режиме разработки:
     ```bash
-    npm run dev
+    make run
     ```
 3.  Откройте [http://localhost:5173](http://localhost:5173) в браузере.
 
